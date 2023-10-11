@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a Ph.D. student from [Gies College of Business](https://giesbusiness.illinois.edu/), [UIUC](https://illinois.edu/). My research interest includes banking, monetary policy and corporate finance.
 
-You can find my CV here: [Wang Zhang's Curriculum Vitae](../assets/CV.pdf).
+You can find my CV here: [Wang Zhang's Curriculum Vitae](../assets/CV_Wang.pdf).
