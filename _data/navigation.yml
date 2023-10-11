@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+ # - title: "Publications"
+ #   url: /publications/
 
   - title: "Working Paper"
     url: /working-paper/    
   
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
   - title: "Contact"
     url: /contact/
