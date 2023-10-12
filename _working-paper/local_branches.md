@@ -1,5 +1,5 @@
 ---
-title: "Do Local Bank Branches Shape Mortgage Origination?"
+title: "Do Local Branches Shape Mortgage Originations?"
 collection: working-paper
 permalink: /working-paper/local_branches
 paperurl: 'http://wangzhang95.github.io/files/local_branches.pdf'
