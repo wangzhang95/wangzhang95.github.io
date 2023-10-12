@@ -83,10 +83,10 @@ author:
   name             : "Wang Zhang"
   avatar           : "# profile.png"
   bio              : "Ph.D. student in Finance"
-  location         : "515 East Gregory Drive, Champaign, IL 61820"
+  location         : # "515 East Gregory Drive, Champaign, IL 61820"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  # pubmed           : 
+  # googlescholar    : 
   email            : wangz4@illinois.edu
   researchgate     : 
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  # orcid            :  #
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
